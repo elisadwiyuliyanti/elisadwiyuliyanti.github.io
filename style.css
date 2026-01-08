@@ -94,7 +94,7 @@ header {
 }
 
 .home-umage{
-    max-width: flex;
+    width: 34vw;
     margin-left: 10%;
     
 }
@@ -439,4 +439,5 @@ span {
     .navbar .slide {
         transform: translateX(0);
     }
+
 }
